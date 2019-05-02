@@ -1,0 +1,1 @@
+# git-training-vkostrytsia-public
